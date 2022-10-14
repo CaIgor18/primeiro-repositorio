@@ -25,7 +25,7 @@
 <h3 class="título-centralizado">Benefícios</h3> 
 
  <ul>
-  </li class="itens">*Atendimento aos   Clientes</li>
+  </li class="itens">*Atendimento aos Clientes</li>
    </li class="itens">*Espaço diferenciado</li>
   </li class="itens">*Localização</li>
    </li class="itens">*Profissionais Qualificados</li>
